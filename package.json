@@ -2,7 +2,6 @@
   "name": "quizzicle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dhanush-ma.github.io/Quizzicle",
   "dependencies": {
     "html-entities": "^2.3.3",
     "react": "^18.2.0",
@@ -11,8 +10,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
